@@ -1,6 +1,8 @@
 # Reinforcement_Learning
 Lectures, Notes and Resources such as tutorials for understanding, implementing and optimising Reinforcement Learning in different scenarios
 
+## Deep Reinforcement Learning
+- [UC Berkley]http://rll.berkeley.edu/deeprlcourse-fa15/#syllabus()
 
 ## References-
 - [UCL Course on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) and associated tutorial [videos](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos)
