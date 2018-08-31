@@ -10,3 +10,5 @@ Lectures, Notes and Resources such as tutorials for understanding, implementing 
 ## References-
 - [UCL Course on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) and associated tutorial [videos](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos)
 - Reinforcement learning [tutorial slides](http://www.cs.cmu.edu/~./awm/tutorials/rl.html) by Andrew Moore
+- Cornell [resources](http://www.cs.cornell.edu/courseinfo/listofcscourses)
+- Causal Inference [notes](http://web.mit.edu/teppei/www/teaching/Keio2016/)
