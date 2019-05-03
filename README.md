@@ -1,5 +1,6 @@
 # Reinforcement_Learning
 Lectures, Notes and Resources such as tutorials for understanding, implementing and optimising Reinforcement Learning in different scenarios (widml.com)
+- [Deep RL Berkley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Deep Reinforcement Learning
 - [UC Berkley]http://rll.berkeley.edu/deeprlcourse-fa15/#syllabus()
