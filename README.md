@@ -14,3 +14,4 @@ Lectures, Notes and Resources such as tutorials for understanding, implementing 
 - Cornell [resources](http://www.cs.cornell.edu/courseinfo/listofcscourses)
 - Causal Inference [notes](http://web.mit.edu/teppei/www/teaching/Keio2016/)
 - [Denny Britz](https://github.com/dennybritz/reinforcement-learning)
+- [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
